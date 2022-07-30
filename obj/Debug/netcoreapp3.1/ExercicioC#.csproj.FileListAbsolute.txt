@@ -1,0 +1,14 @@
+C:\Users\luiza\ExercicioC#\bin\Debug\netcoreapp3.1\ExercicioC#.exe
+C:\Users\luiza\ExercicioC#\bin\Debug\netcoreapp3.1\ExercicioC#.deps.json
+C:\Users\luiza\ExercicioC#\bin\Debug\netcoreapp3.1\ExercicioC#.runtimeconfig.json
+C:\Users\luiza\ExercicioC#\bin\Debug\netcoreapp3.1\ExercicioC#.runtimeconfig.dev.json
+C:\Users\luiza\ExercicioC#\bin\Debug\netcoreapp3.1\ExercicioC#.dll
+C:\Users\luiza\ExercicioC#\bin\Debug\netcoreapp3.1\ExercicioC#.pdb
+C:\Users\luiza\ExercicioC#\obj\Debug\netcoreapp3.1\ExercicioC#.csproj.AssemblyReference.cache
+C:\Users\luiza\ExercicioC#\obj\Debug\netcoreapp3.1\ExercicioC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\ExercicioC#\obj\Debug\netcoreapp3.1\ExercicioC#.AssemblyInfoInputs.cache
+C:\Users\luiza\ExercicioC#\obj\Debug\netcoreapp3.1\ExercicioC#.AssemblyInfo.cs
+C:\Users\luiza\ExercicioC#\obj\Debug\netcoreapp3.1\ExercicioC#.csproj.CoreCompileInputs.cache
+C:\Users\luiza\ExercicioC#\obj\Debug\netcoreapp3.1\ExercicioC#.dll
+C:\Users\luiza\ExercicioC#\obj\Debug\netcoreapp3.1\ExercicioC#.pdb
+C:\Users\luiza\ExercicioC#\obj\Debug\netcoreapp3.1\ExercicioC#.genruntimeconfig.cache
